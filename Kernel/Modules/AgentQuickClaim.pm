@@ -1,3 +1,5 @@
+# Copyright (C) 2017 Haashii 
+
 package Kernel::Modules::AgentQuickClaim;
 
 use strict;
