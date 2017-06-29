@@ -7,6 +7,7 @@
     <URL>http://www.fcnet.fr/</URL>
     <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
     <Description Lang="fr">Appropriation rapide du ticket.</Description>
+    <Description Lang="en">Quickly claim a ticket.</Description>
     <BuildDate>?</BuildDate>
     <BuildHost>?</BuildHost>
     <Filelist>
