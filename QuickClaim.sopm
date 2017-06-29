@@ -12,5 +12,6 @@
     <Filelist>
         <File Permission="644" Location="Kernel/Config/Files/QuickClaim.xml"></File>
         <File Permission="644" Location="Kernel/Modules/AgentQuickClaim.pm"></File>
+        <File Permission="644" Location="Kernel/Language/fr_QuickClaim.pm"></File>
     </Filelist>
 </otrs_package>
